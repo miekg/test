@@ -6,7 +6,6 @@ This is a bla for example this thing
 
 more stuff
 */
-
 package bla
 
 import "fmt"
